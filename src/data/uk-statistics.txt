@@ -1,0 +1,132 @@
+[
+  {
+    "category": "Government Targets",
+    "statistics": [
+      {
+        "label": "Current Solar Capacity",
+        "value": "19 GW",
+        "description": "Current UK installed solar capacity"
+      },
+      {
+        "label": "2030 Target",
+        "value": "45-47 GW",
+        "description": "Clean Power 2030 Action Plan target"
+      },
+      {
+        "label": "Required Increase",
+        "value": "137-147%",
+        "description": "Capacity increase needed in 5 years"
+      }
+    ]
+  },
+  {
+    "category": "Solar Farm Status",
+    "statistics": [
+      {
+        "label": "Operational Farms",
+        "value": "1,336",
+        "description": "Traditional horizontal systems (baseline)"
+      },
+      {
+        "label": "Under Construction",
+        "value": "142",
+        "description": "Conventional models (limited intervention)"
+      },
+      {
+        "label": "Awaiting Construction",
+        "value": "1,957",
+        "description": "PRIME CONVERSION OPPORTUNITY"
+      },
+      {
+        "label": "Applications Submitted",
+        "value": "684",
+        "description": "REDESIGN OPPORTUNITY"
+      },
+      {
+        "label": "Total Conversion Opportunity",
+        "value": "2,641",
+        "description": "Projects ready for vertical agrivoltaic conversion"
+      }
+    ]
+  },
+  {
+    "category": "Performance Benefits",
+    "statistics": [
+      {
+        "label": "Higher Annual Output",
+        "value": "19-22%",
+        "description": "VBPV vs traditional tilted systems"
+      },
+      {
+        "label": "Morning Peak Advantage",
+        "value": "+26.91%",
+        "description": "VBPV vs TMPV (5:30-9:00 AM)"
+      },
+      {
+        "label": "Evening Peak Advantage",
+        "value": "+22.88%",
+        "description": "VBPV vs TMPV (5:00-8:30 PM)"
+      },
+      {
+        "label": "Winter Performance",
+        "value": "+24.52%",
+        "description": "Critical for UK winter energy security"
+      },
+      {
+        "label": "Crop Yield Maintained",
+        "value": "95-100%",
+        "description": "Agricultural productivity preserved"
+      }
+    ]
+  },
+  {
+    "category": "Grid Infrastructure Savings",
+    "statistics": [
+      {
+        "label": "Grid Hosting Capacity",
+        "value": "+46%",
+        "description": "Distribution grid capacity improvement"
+      },
+      {
+        "label": "Infrastructure Savings",
+        "value": "£600M-£1,150M",
+        "description": "Avoided grid reinforcement costs"
+      },
+      {
+        "label": "Distribution Network Savings",
+        "value": "£250M-£550M",
+        "description": "Reduced reinforcement requirements"
+      },
+      {
+        "label": "Operational Savings",
+        "value": "£50M-£100M/year",
+        "description": "Reduced balancing services"
+      }
+    ]
+  },
+  {
+    "category": "Agricultural & Environmental",
+    "statistics": [
+      {
+        "label": "Agricultural Land Saved",
+        "value": "25,000-35,000 hectares",
+        "description": "Preserved from energy-only conversion"
+      },
+      {
+        "label": "Wildlife Habitat Created",
+        "value": "15,000-19,750 hectares",
+        "description": "500mm eco-strips beneath panels"
+      },
+      {
+        "label": "Biodiversity Area",
+        "value": "40-50%",
+        "description": "Of total site area dedicated to wildlife"
+      },
+      {
+        "label": "Additional Agricultural Revenue",
+        "value": "£968M",
+        "description": "Over 25 years from dual land use"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "Search",
+    "title": "1. Initial Consultation & Assessment",
+    "description": "We start with a conversation to understand your energy needs and goals. Our team performs a preliminary remote assessment of your property to determine its suitability for vertical solar."
+  },
+  {
+    "icon": "DraftingCompass",
+    "title": "2. Custom System Design",
+    "description": "Our engineers create a detailed, custom-tailored vertical solar system design that maximizes energy production and seamlessly integrates with your building's architecture."
+  },
+  {
+    "icon": "FileText",
+    "title": "3. Proposal & Permitting",
+    "description": "You receive a comprehensive proposal outlining costs, projected savings, and timelines. Once approved, we handle all necessary permits and paperwork with your local authorities."
+  },
+  {
+    "icon": "Wrench",
+    "title": "4. Professional Installation",
+    "description": "Our certified installation crew meticulously installs your vertical solar system with minimal disruption, adhering to the highest safety and quality standards."
+  },
+  {
+    "icon": "Rocket",
+    "title": "5. System Activation & Inspection",
+    "description": "After installation, we conduct a final inspection and commission the system. We connect it to the grid, and you start generating your own clean energy."
+  },
+  {
+    "icon": "Monitor",
+    "title": "6. Ongoing Monitoring & Support",
+    "description": "Your system includes 24/7 monitoring. We provide ongoing support and maintenance to ensure your investment delivers optimal performance for decades to come."
+  }
+]

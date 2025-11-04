@@ -1,0 +1,75 @@
+
+[
+  {
+    "feature": "Land Use",
+    "vbvp": "Dual-purpose: Solar + 95-100% crop yields",
+    "traditional": "100% solar, 0% agriculture",
+    "advantage": "vbvp"
+  },
+  {
+    "feature": "Energy Pattern", 
+    "vbvp": "Morning (+26.91%) and evening (+22.88%) peaks",
+    "traditional": "Midday peak only",
+    "advantage": "vbvp"
+  },
+  {
+    "feature": "Annual Energy Output",
+    "vbvp": "19-22% higher than traditional systems",
+    "traditional": "Baseline performance",
+    "advantage": "vbvp"
+  },
+  {
+    "feature": "Grid Matching",
+    "vbvp": "Excellent (matches 7-11am & 5-9pm demand)",
+    "traditional": "Poor (peak at 12:00 noon)",
+    "advantage": "vbvp"
+  },
+  {
+    "feature": "Grid Hosting Capacity",
+    "vbvp": "+46% higher penetration possible",
+    "traditional": "Baseline (causes overvoltage issues)",
+    "advantage": "vbvp"
+  },
+  {
+    "feature": "Ground Coverage",
+    "vbvp": "Minimal shade - crops thrive between 3-4m rows",
+    "traditional": "80-90% permanent shade",
+    "advantage": "vbvp"
+  },
+  {
+    "feature": "Agricultural Compatibility",
+    "vbvp": "Full machinery access between rows",
+    "traditional": "None - complete land conversion",
+    "advantage": "vbvp"
+  },
+  {
+    "feature": "Winter Performance",
+    "vbvp": "+24.52% vs traditional systems",
+    "traditional": "Reduced (lower sun angle, snow blockage)", 
+    "advantage": "vbvp"
+  },
+  {
+    "feature": "Self-Cleaning",
+    "vbvp": "Excellent (vertical orientation)",
+    "traditional": "Poor (horizontal accumulation)",
+    "advantage": "vbvp"
+  },
+  {
+    "feature": "Wildlife Corridors",
+    "vbvp": "Extensive (40-50% of site as 500mm eco-strips)",
+    "traditional": "Minimal (10-20% of site area)",
+    "advantage": "vbvp"
+  },
+  {
+    "feature": "Public Acceptance",
+    "vbvp": "Higher (preserves farming identity)",
+    "traditional": "Lower (visual impact, land loss)",
+    "advantage": "vbvp"
+  },
+  {
+    "feature": "Infrastructure Requirements",
+    "vbvp": "46% less grid investment needed",
+    "traditional": "Heavy grid reinforcement required",
+    "advantage": "vbvp"
+  }
+]

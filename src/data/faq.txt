@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is vertical solar?",
+    "answer": "Vertical solar refers to the installation of photovoltaic (PV) panels in a vertical orientation, typically on the facades of buildings. This method is highly effective in urban areas and locations with limited roof or ground space."
+  },
+  {
+    "question": "Are vertical panels less efficient than rooftop panels?",
+    "answer": "Not necessarily. While a single vertical panel might produce slightly less peak power than an optimally angled rooftop panel, they excel at capturing morning and evening sun. This results in a more consistent energy output throughout the day and superior performance in winter months when the sun is low."
+  },
+  {
+    "question": "How much does a vertical solar installation cost?",
+    "answer": "The cost varies depending on the size of the system, the type of panels used, and the complexity of the installation. However, government incentives and long-term energy savings often make it a highly cost-effective investment. Use our calculator for a preliminary estimate."
+  },
+  {
+    "question": "Can vertical solar panels be installed on any building?",
+    "answer": "Most buildings with structurally sound, sun-exposed walls are suitable candidates. Our team conducts a thorough site assessment to determine the best placement and ensure structural integrity."
+  },
+  {
+    "question": "How do vertical panels handle weather like wind and snow?",
+    "answer": "Vertical solar panels are mounted with robust racking systems designed to withstand high winds. Their vertical orientation is a major advantage in snowy climates, as snow cannot accumulate on the surface, ensuring uninterrupted energy production."
+  },
+  {
+    "question": "What is the lifespan of a vertical solar system?",
+    "answer": "Our high-quality vertical solar panels typically come with a 25-year performance warranty, and the system itself can be expected to last for 30 years or more with minimal maintenance."
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "icon": "Trees",
+    "title": "Reduced Carbon Footprint",
+    "description": "Every kilowatt-hour of solar energy generated significantly reduces greenhouse gas emissions compared to fossil fuels, combating climate change."
+  },
+  {
+    "icon": "Mountain",
+    "title": "Land Preservation",
+    "description": "By using existing vertical surfaces, we avoid the need for large-scale solar farms that can disrupt ecosystems and agricultural land."
+  },
+  {
+    "icon": "Wind",
+    "title": "Improved Air Quality",
+    "description": "Solar power generation produces no air pollutants like sulfur dioxide or nitrogen oxides, leading to cleaner air and better public health in our cities."
+  },
+  {
+    "icon": "Droplets",
+    "title": "Water Conservation",
+    "description": "Unlike traditional power plants, solar panels use virtually no water to generate electricity, conserving this precious resource."
+  },
+  {
+    "icon": "Sprout",
+    "title": "Green Eco-Strips",
+    "description": "The ground directly beneath each panel row creates a natural 500mm wildlife corridor, dedicating a significant portion of the site area to biodiversity.",
+    "details": [
+      "40-50% of total site area dedicated to biodiversity",
+      "Protected microhabitats with unique light, temperature, and moisture conditions"
+    ]
+  },
+  {
+    "icon": "Rabbit",
+    "title": "Wildlife Corridor Architecture",
+    "description": "Vertical panels create continuous corridors allowing for wildlife movement across the entire site. These low-disturbance zones are rarely accessed by farm machinery.",
+    "details": [
+      "Continuous corridors for wildlife movement",
+      "Low-disturbance zones rarely accessed by machinery"
+    ]
+  }
+]

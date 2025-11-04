@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "Maximize",
+    "title": "Space-Efficient",
+    "description": "Vertical panels are ideal for urban environments and areas with limited space."
+  },
+  {
+    "icon": "Sun",
+    "title": "Consistent Power",
+    "description": "Captures sunlight effectively during morning and evening, smoothing out the daily energy curve."
+  },
+  {
+    "icon": "Zap",
+    "title": "Enhanced Performance",
+    "description": "Less affected by snow and dust, leading to lower maintenance and better year-round performance."
+  },
+  {
+    "icon": "DollarSign",
+    "title": "Cost Savings",
+    "description": "Reduce your electricity bills and gain energy independence with a smaller footprint."
+  }
+]

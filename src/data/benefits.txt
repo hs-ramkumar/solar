@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "Building2",
+    "title": "Maximized Urban Space",
+    "description": "Perfect for cities, vertical panels can be installed on building facades, walls, and balustrades, turning unused vertical surfaces into power sources."
+  },
+  {
+    "icon": "AreaChart",
+    "title": "Consistent Energy Production",
+    "description": "Vertical panels excel at capturing low-angle sunlight during sunrise and sunset, providing a more stable energy output throughout the day compared to flat panels."
+  },
+  {
+    "icon": "SunSnow",
+    "title": "Superior Winter Performance",
+    "description": "During winter, when the sun is lower in the sky, vertical panels capture more direct sunlight. Their orientation also prevents snow accumulation, ensuring continuous operation."
+  },
+  {
+    "icon": "Wind",
+    "title": "Self-Cleaning & Low Maintenance",
+    "description": "The vertical position allows rain to easily wash away dust and debris, reducing soiling losses and the need for frequent cleaning."
+  },
+  {
+    "icon": "Aperture",
+    "title": "Aesthetic Integration",
+    "description": "Modern vertical solar panels come in various colors and finishes, allowing for seamless and beautiful integration into architectural designs."
+  },
+  {
+    "icon": "Leaf",
+    "title": "Reduced Environmental Impact",
+    "description": "By utilizing existing structures, vertical solar minimizes the land footprint required for renewable energy generation, preserving natural habitats."
+  }
+]

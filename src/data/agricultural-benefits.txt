@@ -1,0 +1,92 @@
+[
+  {
+    "icon": "Wheat",
+    "title": "Crop Yield Maintenance",
+    "description": "Vertical agrivoltaic systems maintain 95-100% of traditional crop yields while generating renewable energy on the same land.",
+    "details": [
+      "Wheat: 98% yield maintained",
+      "Potatoes: 95% yield maintained", 
+      "Oats: 94% yield maintained",
+      "Clover/Hay: 97-100% yield maintained"
+    ],
+    "source": "Aarhus University (2025)"
+  },
+  {
+    "icon": "DollarSign",
+    "title": "Dual Revenue Streams",
+    "description": "Farmers benefit from both agricultural income and energy generation income on the same land parcel.",
+    "details": [
+      "Agricultural income: £1,000-1,500/hectare/year",
+      "Energy income: £3,500-5,000/hectare/year",
+      "Total combined income: £4,500-6,500/hectare/year",
+      "Income increase: 200-300% vs agriculture alone"
+    ],
+    "source": "UK agricultural & energy market data"
+  },
+  {
+    "icon": "Tractor",
+    "title": "Full Machinery Access",
+    "description": "3-4 meter spacing between panel rows allows unrestricted use of standard agricultural machinery.",
+    "details": [
+      "Standard tractors operate normally between rows",
+      "Combine harvesters have full access",
+      "Irrigation systems work without modification",
+      "No change to existing farming practices required"
+    ]
+  },
+  {
+    "icon": "Droplets",
+    "title": "Improved Microclimate",
+    "description": "Vertical panels create beneficial microclimatic conditions that can actually improve crop growth.",
+    "details": [
+      "Reduced wind speed protects crops",
+      "Morning dew retention improves water availability", 
+      "Shelter effect reduces crop stress",
+      "Temperature moderation benefits plant growth"
+    ]
+  },
+  {
+    "icon": "Shield",
+    "title": "Crop Protection Benefits",
+    "description": "Panels provide natural protection against extreme weather events and climate variations.",
+    "details": [
+      "Hail protection for vulnerable crops",
+      "Wind break effect reduces storm damage",
+      "Frost protection in early/late season",
+      "Drought stress reduction through shading"
+    ]
+  },
+  {
+    "icon": "Sprout",
+    "title": "Soil Health Preservation",
+    "description": "Unlike traditional solar farms, vertical systems maintain natural soil processes and health.",
+    "details": [
+      "No soil compaction from heavy panel mounting",
+      "Continued crop rotation maintains soil fertility",
+      "Natural rainfall patterns preserved",
+      "Soil carbon sequestration continues through farming"
+    ]
+  },
+  {
+    "icon": "Clock",
+    "title": "Future Flexibility",
+    "description": "Land can be returned to full agricultural use if needed, unlike permanent solar installations.",
+    "details": [
+      "Panels can be removed without soil remediation",
+      "No permanent ground coverage or concrete",
+      "Agricultural use continues throughout system lifetime",
+      "Food security maintained long-term"
+    ]
+  },
+  {
+    "icon": "Users",
+    "title": "Rural Community Benefits",
+    "description": "Agrivoltaic systems support rural communities by maintaining farming employment and identity.",
+    "details": [
+      "Agricultural jobs preserved and enhanced",
+      "Local food production continues",
+      "Rural community character maintained",
+      "Additional technical employment created"
+    ]
+  }
+]

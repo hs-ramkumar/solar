@@ -1,0 +1,98 @@
+[
+  {
+    "icon": "Zap", 
+    "title": "Grid Hosting Capacity Breakthrough",
+    "description": "VBPV systems increase distribution grid hosting capacity by 46% compared to traditional tilted systems, allowing more solar on existing infrastructure.",
+    "benefits": [
+      "46% higher solar capacity on same grid infrastructure",
+      "Reduced overvoltage risk from midday generation spikes", 
+      "Better load matching reduces voltage fluctuations",
+      "Lower transformer stress from distributed generation timing"
+    ],
+    "savings": "£250M-£550M in avoided distribution network upgrades"
+  },
+  {
+    "icon": "Building2",
+    "title": "Substation Infrastructure Savings", 
+    "description": "Morning and evening generation peaks align with demand, reducing the need for expensive substation upgrades and reinforcements.",
+    "benefits": [
+      "Reduced peak loading on local transformers",
+      "Lower voltage regulation equipment requirements",
+      "Delayed need for capacity upgrades",
+      "Improved power quality and stability"
+    ],
+    "savings": "£150M-£300M in substation upgrade deferrals"
+  },
+  {
+    "icon": "Battery",
+    "title": "Reduced Energy Storage Requirements",
+    "description": "VBPV's generation pattern naturally matches consumption, reducing the need for expensive grid-scale battery storage systems.",
+    "benefits": [
+      "Less energy storage needed for peak demand",
+      "Reduced battery cycling and degradation",
+      "Lower grid balancing service costs", 
+      "Improved grid stability without storage"
+    ],
+    "savings": "£200M-£300M in reduced battery storage needs"
+  },
+  {
+    "icon": "TrendingDown",
+    "title": "Balancing Services Reduction",
+    "description": "Generation peaks align with demand peaks, reducing reliance on expensive gas peaking plants and electricity imports.",
+    "benefits": [
+      "Reduced gas plant usage during evening peaks",
+      "Lower electricity import requirements",
+      "Decreased frequency response needs",
+      "Improved grid carbon intensity"
+    ],
+    "savings": "£50M-£100M per year in operational cost reductions"
+  },
+  {
+    "icon": "Clock",
+    "title": "Peak Demand Alignment",
+    "description": "VBPV generates maximum power during UK's highest demand periods (7-11am, 5-9pm), providing premium-priced electricity when most needed.",
+    "benefits": [
+      "Higher revenue per kWh during peak periods",
+      "Reduced strain on grid during high demand",
+      "Lower wholesale electricity prices",
+      "Improved energy security"
+    ],
+    "economic_impact": "10-15% higher revenue vs traditional solar"
+  },
+  {
+    "icon": "Shield", 
+    "title": "Grid Stability Enhancement",
+    "description": "Distributed generation timing and better supply-demand correlation improves overall grid stability and reliability.",
+    "benefits": [
+      "Smoother generation profile maintains voltage stability",
+      "Reduced grid frequency fluctuations",
+      "Lower risk of cascading failures",
+      "Improved power quality for consumers"
+    ],
+    "long_term_value": "Avoided blackout costs and grid reliability improvements"
+  },
+  {
+    "icon": "Globe",
+    "title": "National Energy Security",
+    "description": "Reduced reliance on electricity imports and gas generation improves UK's energy independence and security.",
+    "benefits": [
+      "Lower dependence on interconnector imports",
+      "Reduced exposure to volatile gas prices",
+      "Improved resilience to supply disruptions",
+      "Enhanced national energy sovereignty"
+    ],
+    "strategic_value": "Reduced geopolitical energy risks"
+  },
+  {
+    "icon": "Leaf",
+    "title": "Carbon Intensity Reduction", 
+    "description": "Better supply-demand matching reduces the need for fossil fuel balancing, lowering the carbon intensity of the electricity grid.",
+    "benefits": [
+      "Less gas plant operation during peaks",
+      "Reduced carbon emissions from balancing",
+      "Improved renewable energy integration",
+      "Accelerated grid decarbonization"
+    ],
+    "environmental_impact": "Significant reduction in grid carbon intensity"
+  }
+]
