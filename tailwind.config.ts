@@ -22,6 +22,12 @@ export default {
         code: ['monospace'],
       },
       colors: {
+        brand: {
+          light: '#DDEB9D',
+          'light-green': '#A0C878',
+          teal: '#27667B',
+          navy: '#143D60',
+        },
         background: 'hsl(var(--background))',
         foreground: 'hsl(var(--foreground))',
         card: {

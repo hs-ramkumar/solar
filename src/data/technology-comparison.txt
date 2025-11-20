@@ -1,75 +1,88 @@
 
 [
   {
-    "feature": "Land Use",
-    "vbvp": "Dual-purpose: Solar + 95-100% crop yields",
-    "traditional": "100% solar, 0% agriculture",
-    "advantage": "vbvp"
+    "feature": "Panel Orientation",
+    "vbvp": "Vertical, bifacial facing east-west",
+    "traditional": "Tilted 30-35° facing south"
   },
   {
-    "feature": "Energy Pattern", 
-    "vbvp": "Morning (+26.91%) and evening (+22.88%) peaks",
-    "traditional": "Midday peak only",
-    "advantage": "vbvp"
+    "feature": "Generation Pattern",
+    "vbvp": "Dual peaks: morning (08:00-10:00) and evening (15:00-18:00)",
+    "traditional": "Single midday peak (11:00-14:00)"
   },
   {
     "feature": "Annual Energy Output",
-    "vbvp": "19-22% higher than traditional systems",
-    "traditional": "Baseline performance",
-    "advantage": "vbvp"
+    "vbvp": "119-122% of TMPV (University of York 2024)",
+    "traditional": "Baseline (100%)"
   },
   {
-    "feature": "Grid Matching",
-    "vbvp": "Excellent (matches 7-11am & 5-9pm demand)",
-    "traditional": "Poor (peak at 12:00 noon)",
-    "advantage": "vbvp"
+    "feature": "Winter Generation",
+    "vbvp": "129% of TMPV during peak demand",
+    "traditional": "Low (severe duck curve)"
   },
   {
-    "feature": "Grid Hosting Capacity",
-    "vbvp": "+46% higher penetration possible",
-    "traditional": "Baseline (causes overvoltage issues)",
-    "advantage": "vbvp"
+    "feature": "Morning Peak (08:00)",
+    "vbvp": "+600% vs TMPV (6-7× more power)",
+    "traditional": "Minimal output"
+  },
+  {
+    "feature": "Evening Peak (16:00-18:00)",
+    "vbvp": "+463% vs TMPV (4-5× more power)",
+    "traditional": "Rapidly dropping output"
+  },
+  {
+    "feature": "Duck Curve Severity",
+    "vbvp": "57% less severe than TMPV",
+    "traditional": "Creates severe duck curve problem"
+  },
+  {
+    "feature": "Land Use",
+    "vbvp": "70-85% agricultural productivity maintained",
+    "traditional": "100% dedicated to solar, zero agriculture"
+  },
+  {
+    "feature": "Agricultural Operations",
+    "vbvp": "Standard machinery access maintained (10-12m row spacing)",
+    "traditional": "Impossible (panels block access)"
   },
   {
     "feature": "Ground Coverage",
-    "vbvp": "Minimal shade - crops thrive between 3-4m rows",
-    "traditional": "80-90% permanent shade",
-    "advantage": "vbvp"
+    "vbvp": "500mm posts occupy <5% of ground",
+    "traditional": "Racking blocks 40-50% of ground"
   },
   {
-    "feature": "Agricultural Compatibility",
-    "vbvp": "Full machinery access between rows",
-    "traditional": "None - complete land conversion",
-    "advantage": "vbvp"
+    "feature": "Wildlife Movement",
+    "vbvp": "Free movement for mammals, birds, invertebrates",
+    "traditional": "Severely restricted by racking structures"
   },
   {
-    "feature": "Winter Performance",
-    "vbvp": "+24.52% vs traditional systems",
-    "traditional": "Reduced (lower sun angle, snow blockage)", 
-    "advantage": "vbvp"
+    "feature": "Habitat Connectivity",
+    "vbvp": "Continuous corridors 10-12m wide",
+    "traditional": "Fragmented patches"
   },
   {
-    "feature": "Self-Cleaning",
-    "vbvp": "Excellent (vertical orientation)",
-    "traditional": "Poor (horizontal accumulation)",
-    "advantage": "vbvp"
+    "feature": "BESS Requirements (47 GW)",
+    "vbvp": "78-87 GWh (94% reduction)",
+    "traditional": "170-190 GWh"
   },
   {
-    "feature": "Wildlife Corridors",
-    "vbvp": "Extensive (40-50% of site as 500mm eco-strips)",
-    "traditional": "Minimal (10-20% of site area)",
-    "advantage": "vbvp"
+    "feature": "Grid Infrastructure Savings",
+    "vbvp": "£40-53 billion savings over 30 years",
+    "traditional": "£49-65.4 billion required"
   },
   {
-    "feature": "Public Acceptance",
-    "vbvp": "Higher (preserves farming identity)",
-    "traditional": "Lower (visual impact, land loss)",
-    "advantage": "vbvp"
+    "feature": "Total System Cost (30yr)",
+    "vbvp": "£157-203 billion lower than TMPV",
+    "traditional": "£224-249 billion for BESS alone"
   },
   {
-    "feature": "Infrastructure Requirements",
-    "vbvp": "46% less grid investment needed",
-    "traditional": "Heavy grid reinforcement required",
-    "advantage": "vbvp"
+    "feature": "Biodiversity Impact",
+    "vbvp": "3× bird abundance vs intensive farming (RSPB)",
+    "traditional": "Eliminates agricultural habitat"
+  },
+  {
+    "feature": "Wildlife Corridors (47 GW)",
+    "vbvp": "27,200-38,250 hectares created",
+    "traditional": "Negligible"
   }
 ]

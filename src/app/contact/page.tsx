@@ -21,7 +21,7 @@ import fs from 'fs/promises';
 import path from 'path';
 
 export const metadata: Metadata = {
-  title: 'Contact Us | Vertical Agrivoltaic Solar',
+  title: 'Contact Us | Harvesting the Sun Twice',
   description: 'Get in touch with our vertical solar experts. Free consultation, system design, and implementation support.',
 };
 
@@ -82,9 +82,9 @@ export default async function ContactPage() {
 
                 <div>
                   <Label htmlFor="message">Questions/Enquiry</Label>
-                  <Textarea 
-                    id="message" 
-                    placeholder="Tell us about your questions or enquiry regarding vertical agrivoltaic solar systems..."
+                  <Textarea
+                    id="message"
+                    placeholder="Tell us about your questions or enquiry regarding Harvesting the Sun Twice systems..."
                     className="min-h-[120px]"
                   />
                 </div>
@@ -109,7 +109,7 @@ export default async function ContactPage() {
                 <Mail className="w-5 h-5 text-primary mt-1" />
                 <div>
                   <p className="font-medium">Email</p>
-                  <p className="text-sm text-muted-foreground">info@verticalagrivoltaic.uk</p>
+                  <p className="text-sm text-muted-foreground">harvesringthesuntwice@gmail.com</p>
                 </div>
               </div>
               <div className="flex items-start space-x-3">

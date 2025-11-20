@@ -8,11 +8,11 @@ export function Footer() {
           <div className="flex items-center space-x-2 mb-4 md:mb-0">
             <SolarisVerticalLogo className="h-5 w-5 text-muted-foreground" />
             <span className="text-sm text-muted-foreground font-headline">
-              Vertical Agrivoltaic Solar
+              Harvesting the Sun Twice
             </span>
           </div>
           <p className="text-sm text-muted-foreground text-center md:text-right">
-            &copy; {new Date().getFullYear()} Vertical Agrivoltaic Solar. All rights reserved.
+            &copy; {new Date().getFullYear()} Harvesting the Sun Twice. All rights reserved.
           </p>
         </div>
       </div>

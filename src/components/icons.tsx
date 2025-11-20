@@ -12,7 +12,7 @@ export function SolarisVerticalLogo(props: SVGProps<SVGSVGElement>) {
       strokeLinejoin="round"
       {...props}
     >
-      <title>Vertical Agrivoltaic Solar Logo</title>
+      <title>Harvesting the Sun Twice Logo</title>
       <path d="M12 2v4" />
       <path d="m4.93 4.93 2.83 2.83" />
       <path d="M2 12h4" />

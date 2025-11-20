@@ -6,7 +6,7 @@ import { Footer } from '@/components/layout/Footer';
 import { Toaster } from "@/components/ui/toaster"
 
 export const metadata: Metadata = {
-  title: 'Vertical Agrivoltaic Solar',
+  title: 'Harvesting the Sun Twice',
   description: 'Harnessing the power of the sun with vertical solar solutions.',
 };
 

@@ -6,8 +6,8 @@ import path from 'path';
 import * as LucideIcons from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Implementation Plan | Vertical Agrivoltaic Solar',
-  description: 'Our streamlined process for vertical solar installation from consultation to activation.',
+  title: 'Implementation Pathway | VBPV Agrivoltaics for UK',
+  description: 'A comprehensive policy and deployment framework for transitioning the UK to vertical bifacial agrivoltaic systems.',
 };
 
 type ImplementationStep = {
@@ -30,10 +30,10 @@ export default async function ImplementationPage() {
     <div className="container mx-auto px-4 py-12 sm:py-16">
       <div className="text-center max-w-3xl mx-auto mb-12">
         <h1 className="text-4xl md:text-5xl font-headline font-bold mb-4">
-          Your Path to Energy Independence
+          UK Policy Implementation Pathway
         </h1>
         <p className="text-lg text-muted-foreground">
-          We've streamlined the process of going solar into six simple, transparent steps. Here's what to expect on your journey with Vertical Agrivoltaic Solar.
+          A strategic framework for transitioning the UK's solar energy infrastructure to Vertical Bifacial Photovoltaic (VBPV) agrivoltaic systems. This evidence-based pathway outlines the critical steps for policy makers, regulators, and industry stakeholders.
         </p>
       </div>
 

@@ -4,16 +4,16 @@ import { Badge } from '@/components/ui/badge';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Agricultural Benefits | Vertical Agrivoltaic Solar',
+  title: 'Agricultural Benefits | Harvesting the Sun Twice',
   description: 'Discover how vertical solar systems preserve agricultural productivity while generating renewable energy.',
 };
 
 export default function AgriculturePage() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-green-50 to-emerald-50">
+    <div className="min-h-screen bg-gradient-to-br from-brand-light/20 to-emerald-50">
       <div className="container mx-auto px-4 py-20">
         <div className="text-center max-w-4xl mx-auto mb-16">
-          <Badge className="mb-6 bg-gradient-to-r from-green-600 to-emerald-600 text-white px-4 py-2">
+          <Badge className="mb-6 bg-gradient-to-r from-brand-light-green to-brand-light-green text-white px-4 py-2">
             Agricultural Innovation
           </Badge>
           <h1 className="text-4xl md:text-6xl font-headline font-bold mb-6 bg-gradient-to-r from-gray-900 via-green-700 to-emerald-700 bg-clip-text text-transparent">

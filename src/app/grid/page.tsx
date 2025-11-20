@@ -5,7 +5,7 @@ import path from 'path';
 import * as LucideIcons from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Grid Infrastructure Benefits | Vertical Agrivoltaic Solar',
+  title: 'Grid Infrastructure Benefits | Harvesting the Sun Twice',
   description: 'How vertical solar systems reduce grid infrastructure costs by £600M-£1,150M while improving grid stability.',
 };
 
@@ -43,23 +43,23 @@ export default async function GridPage() {
         </p>
         
         {/* Key Research Findings */}
-        <div className="bg-gradient-to-r from-blue-50 to-green-50 rounded-lg p-8 mb-12">
+        <div className="bg-gradient-to-r from-brand-teal/10 to-green-50 rounded-lg p-8 mb-12">
           <h2 className="text-2xl font-headline font-bold mb-6">
             🔌 Revolutionary Grid Integration Findings
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="text-center">
-              <div className="text-4xl font-bold text-blue-600 mb-2">+46%</div>
+              <div className="text-4xl font-bold text-brand-teal mb-2">+46%</div>
               <div className="font-medium">Grid Hosting Capacity</div>
               <div className="text-sm text-muted-foreground">vs traditional solar systems</div>
             </div>
             <div className="text-center">
-              <div className="text-4xl font-bold text-green-600 mb-2">£600M-£1,150M</div>
+              <div className="text-4xl font-bold text-brand-light-green mb-2">£600M-£1,150M</div>
               <div className="font-medium">Infrastructure Savings</div>
               <div className="text-sm text-muted-foreground">Avoided grid reinforcement costs</div>
             </div>
             <div className="text-center">
-              <div className="text-4xl font-bold text-purple-600 mb-2">15-20%</div>
+              <div className="text-4xl font-bold text-brand-navy mb-2">15-20%</div>
               <div className="font-medium">Cost Reduction</div>
               <div className="text-sm text-muted-foreground">Total solar deployment costs</div>
             </div>
@@ -91,31 +91,31 @@ export default async function GridPage() {
                 <td className="p-4 font-medium">Distribution Network Reinforcement</td>
                 <td className="text-center p-4">£800M-£1,200M</td>
                 <td className="text-center p-4">£550M-£650M</td>
-                <td className="text-center p-4 text-green-600 font-semibold">£250M-£550M</td>
+                <td className="text-center p-4 text-brand-light-green font-semibold">£250M-£550M</td>
               </tr>
               <tr className="border-t bg-muted/50">
                 <td className="p-4 font-medium">Substation Upgrades</td>
                 <td className="text-center p-4">£600M-£900M</td>
                 <td className="text-center p-4">£450M-£600M</td>
-                <td className="text-center p-4 text-green-600 font-semibold">£150M-£300M</td>
+                <td className="text-center p-4 text-brand-light-green font-semibold">£150M-£300M</td>
               </tr>
               <tr className="border-t">
                 <td className="p-4 font-medium">Grid-Scale Battery Storage</td>
                 <td className="text-center p-4">£500M-£800M</td>
                 <td className="text-center p-4">£300M-£500M</td>
-                <td className="text-center p-4 text-green-600 font-semibold">£200M-£300M</td>
+                <td className="text-center p-4 text-brand-light-green font-semibold">£200M-£300M</td>
               </tr>
               <tr className="border-t bg-muted/50">
                 <td className="p-4 font-medium">Balancing Services Reduction</td>
                 <td className="text-center p-4">N/A</td>
                 <td className="text-center p-4">Reduced costs</td>
-                <td className="text-center p-4 text-green-600 font-semibold">£50M-£100M/year</td>
+                <td className="text-center p-4 text-brand-light-green font-semibold">£50M-£100M/year</td>
               </tr>
               <tr className="border-t bg-primary/10">
                 <td className="p-4 font-bold">TOTAL SAVINGS</td>
                 <td className="text-center p-4 font-bold">—</td>
                 <td className="text-center p-4 font-bold">—</td>
-                <td className="text-center p-4 text-green-600 font-bold text-lg">£650M-£1,250M</td>
+                <td className="text-center p-4 text-brand-light-green font-bold text-lg">£650M-£1,250M</td>
               </tr>
             </tbody>
           </table>
@@ -145,30 +145,30 @@ export default async function GridPage() {
               </ul>
               
               {benefit.savings && (
-                <div className="bg-green-50 border border-green-200 rounded-lg p-3 mb-3">
-                  <div className="text-sm font-medium text-green-800">Infrastructure Savings</div>
-                  <div className="text-sm text-green-700">{benefit.savings}</div>
+                <div className="bg-brand-light/10 border border-brand-light-green/50 rounded-lg p-3 mb-3">
+                  <div className="text-sm font-medium text-brand-light-green">Infrastructure Savings</div>
+                  <div className="text-sm text-brand-light-green">{benefit.savings}</div>
                 </div>
               )}
               
               {benefit.economic_impact && (
-                <div className="bg-blue-50 border border-blue-200 rounded-lg p-3 mb-3">
-                  <div className="text-sm font-medium text-blue-800">Economic Impact</div>
-                  <div className="text-sm text-blue-700">{benefit.economic_impact}</div>
+                <div className="bg-brand-teal/10 border border-brand-teal/50 rounded-lg p-3 mb-3">
+                  <div className="text-sm font-medium text-brand-teal">Economic Impact</div>
+                  <div className="text-sm text-brand-teal">{benefit.economic_impact}</div>
                 </div>
               )}
               
               {benefit.strategic_value && (
-                <div className="bg-purple-50 border border-purple-200 rounded-lg p-3 mb-3">
-                  <div className="text-sm font-medium text-purple-800">Strategic Value</div>
-                  <div className="text-sm text-purple-700">{benefit.strategic_value}</div>
+                <div className="bg-brand-navy/10 border border-brand-navy/50 rounded-lg p-3 mb-3">
+                  <div className="text-sm font-medium text-brand-navy">Strategic Value</div>
+                  <div className="text-sm text-brand-navy">{benefit.strategic_value}</div>
                 </div>
               )}
               
               {benefit.environmental_impact && (
-                <div className="bg-green-50 border border-green-200 rounded-lg p-3 mb-3">
-                  <div className="text-sm font-medium text-green-800">Environmental Impact</div>
-                  <div className="text-sm text-green-700">{benefit.environmental_impact}</div>
+                <div className="bg-brand-light/10 border border-brand-light-green/50 rounded-lg p-3 mb-3">
+                  <div className="text-sm font-medium text-brand-light-green">Environmental Impact</div>
+                  <div className="text-sm text-brand-light-green">{benefit.environmental_impact}</div>
                 </div>
               )}
               
@@ -193,13 +193,13 @@ export default async function GridPage() {
             <div className="text-center">
               <div className="text-xl font-bold text-orange-600 mb-2">Morning Peak</div>
               <div className="text-sm text-muted-foreground mb-2">7:00-11:00 AM</div>
-              <div className="text-lg font-semibold text-green-600">+26.91% VBPV Advantage</div>
+              <div className="text-lg font-semibold text-brand-light-green">+26.91% VBPV Advantage</div>
               <div className="text-xs text-muted-foreground mt-2">
                 People waking, breakfast, commute, business start-up
               </div>
             </div>
             <div className="text-center">
-              <div className="text-xl font-bold text-blue-600 mb-2">Midday Trough</div>
+              <div className="text-xl font-bold text-brand-teal mb-2">Midday Trough</div>
               <div className="text-sm text-muted-foreground mb-2">11:00 AM-3:00 PM</div>
               <div className="text-lg font-semibold">Both Systems Generate Well</div>
               <div className="text-xs text-muted-foreground mt-2">
@@ -209,7 +209,7 @@ export default async function GridPage() {
             <div className="text-center">
               <div className="text-xl font-bold text-red-600 mb-2">Evening Peak</div>
               <div className="text-sm text-muted-foreground mb-2">5:00-9:00 PM</div>
-              <div className="text-lg font-semibold text-green-600">+22.88% VBPV Advantage</div>
+              <div className="text-lg font-semibold text-brand-light-green">+22.88% VBPV Advantage</div>
               <div className="text-xs text-muted-foreground mt-2">
                 Highest demand - up to 42 GW
               </div>

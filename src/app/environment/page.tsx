@@ -52,7 +52,7 @@ export default async function EnvironmentPage() {
                 <ul className="text-sm text-muted-foreground space-y-2 text-left">
                   {benefit.details.map((detail, i) => (
                     <li key={i} className="flex items-start">
-                      <Check className="w-4 h-4 mr-2 mt-1 text-green-500 flex-shrink-0" />
+                      <Check className="w-4 h-4 mr-2 mt-1 text-brand-light-green flex-shrink-0" />
                       <span>{detail}</span>
                     </li>
                   ))}

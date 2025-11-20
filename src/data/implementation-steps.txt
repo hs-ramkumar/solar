@@ -1,32 +1,32 @@
 [
   {
     "icon": "Search",
-    "title": "1. Initial Consultation & Assessment",
-    "description": "We start with a conversation to understand your energy needs and goals. Our team performs a preliminary remote assessment of your property to determine its suitability for vertical solar."
+    "title": "1. Policy Framework & Regulatory Reform",
+    "description": "Establish updated planning guidelines that recognize VBPV agrivoltaics as distinct from traditional solar. Update National Planning Policy Framework (NPPF) to explicitly support dual-use agricultural land for VBPV systems. Modify grid connection policies to prioritize demand-aligned generation profiles."
   },
   {
     "icon": "DraftingCompass",
-    "title": "2. Custom System Design",
-    "description": "Our engineers create a detailed, custom-tailored vertical solar system design that maximizes energy production and seamlessly integrates with your building's architecture."
+    "title": "2. Pilot Programme & Demonstration Projects",
+    "description": "Launch government-backed pilot projects across diverse UK agricultural regions (5-10 sites, 1-5 MW each). Establish monitoring frameworks for energy generation, agricultural productivity, and biodiversity. Partner with universities for independent validation of performance claims."
   },
   {
     "icon": "FileText",
-    "title": "3. Proposal & Permitting",
-    "description": "You receive a comprehensive proposal outlining costs, projected savings, and timelines. Once approved, we handle all necessary permits and paperwork with your local authorities."
+    "title": "3. Financial Incentives & Support Mechanisms",
+    "description": "Introduce enhanced feed-in tariffs or Contract for Difference (CfD) strike prices that reflect VBPV's superior grid alignment value. Provide capital grants or low-interest loans for early adopters. Develop agricultural subsidy modifications to support dual-use farming practices."
   },
   {
     "icon": "Wrench",
-    "title": "4. Professional Installation",
-    "description": "Our certified installation crew meticulously installs your vertical solar system with minimal disruption, adhering to the highest safety and quality standards."
+    "title": "4. Industry Standards & Certification",
+    "description": "Develop British Standards (BS) for VBPV agrivoltaic installations covering structural requirements, electrical standards, and agricultural integration. Create certification programmes for installers and designers. Establish quality assurance frameworks for system components and performance guarantees."
   },
   {
     "icon": "Rocket",
-    "title": "5. System Activation & Inspection",
-    "description": "After installation, we conduct a final inspection and commission the system. We connect it to the grid, and you start generating your own clean energy."
+    "title": "5. Grid Integration & Infrastructure Planning",
+    "description": "Update Distribution Network Operator (DNO) planning assumptions to incorporate VBPV generation profiles. Revise National Grid's Future Energy Scenarios (FES) to model VBPV deployment pathways. Implement smart grid technologies that leverage VBPV's demand-aligned generation for grid balancing services."
   },
   {
     "icon": "Monitor",
-    "title": "6. Ongoing Monitoring & Support",
-    "description": "Your system includes 24/7 monitoring. We provide ongoing support and maintenance to ensure your investment delivers optimal performance for decades to come."
+    "title": "6. Long-term Monitoring & Adaptive Policy",
+    "description": "Establish national database for VBPV system performance (energy, agriculture, biodiversity). Implement quarterly policy reviews during initial 3-year deployment phase. Create feedback mechanisms to adjust regulations based on empirical performance data. Set 5-year and 10-year deployment targets with regular progress assessments."
   }
 ]
