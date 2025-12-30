@@ -51,7 +51,7 @@ export default async function GridPage() {
             <div className="text-center">
               <div className="text-4xl font-bold text-brand-teal mb-2">+46%</div>
               <div className="font-medium">Grid Hosting Capacity</div>
-              <div className="text-sm text-muted-foreground">vs traditional solar systems</div>
+              <div className="text-sm text-muted-foreground">vs traditional solar systems*</div>
             </div>
             <div className="text-center">
               <div className="text-4xl font-bold text-brand-light-green mb-2">£600M-£1,150M</div>
@@ -66,7 +66,8 @@ export default async function GridPage() {
           </div>
           <p className="text-sm text-muted-foreground mt-6">
             Source: University of Turku (Finland) & Norwegian University of Science and Technology (NTNU), 
-            published in Renewable and Sustainable Energy Reviews (March 2022)
+            published in Renewable and Sustainable Energy Reviews (March 2022). *Grid hosting capacity improvement from 
+            Joutijärvi et al. (2023), based on reduced overvoltage risk and improved load matching.
           </p>
         </div>
       </div>

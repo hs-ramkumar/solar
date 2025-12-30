@@ -2,7 +2,7 @@
   {
     "icon": "Zap", 
     "title": "Grid Hosting Capacity Breakthrough",
-    "description": "VBPV systems increase distribution grid hosting capacity by 46% compared to traditional tilted systems, allowing more solar on existing infrastructure.",
+    "description": "VBPV systems increase distribution grid hosting capacity by 46% compared to traditional tilted systems, allowing more solar on existing infrastructure. Source: Joutijärvi et al. (2023), Renewable and Sustainable Energy Reviews.",
     "benefits": [
       "46% higher solar capacity on same grid infrastructure",
       "Reduced overvoltage risk from midday generation spikes", 

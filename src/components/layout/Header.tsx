@@ -16,6 +16,8 @@ const navItems = [
   { href: "/grid", label: "Grid Benefits" },
   { href: "/technology", label: "Technology" },
   { href: "/implementation", label: "Implementation" },
+  { href: "/sources", label: "Sources" },
+  { href: "/methodology", label: "Methodology" },
 ];
 
 export function Header() {

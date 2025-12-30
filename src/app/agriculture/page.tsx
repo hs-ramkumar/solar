@@ -23,6 +23,10 @@ export default function AgriculturePage() {
             Vertical agrivoltaic systems eliminate the false choice between energy security and food security. 
             The same land can produce both renewable energy and agricultural crops, maintaining 95-100% of traditional yields.
           </p>
+          <p className="text-sm text-gray-600 italic mb-4">
+            Note: Agricultural productivity based on vertical agrivoltaic configurations (10-12m row spacing) that allow full machinery access between rows. 
+            Sources: Riaz et al. (2021), IEEE Journal of Photovoltaics; Next2Sun field study data.
+          </p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-4 gap-6 mb-12">

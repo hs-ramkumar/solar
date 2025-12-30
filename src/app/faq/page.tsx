@@ -62,8 +62,8 @@ export default function FAQPage() {
                     <ul className="list-disc pl-6 space-y-2">
                       <li><strong>19-22% more annual energy</strong> than TMPV output at UK latitudes</li>
                       <li><strong>+24.52% winter energy gains</strong> during the October-March period when UK demand is highest</li>
-                      <li><strong>+600% morning peak generation</strong> at 08:00 compared to TMPV (when TMPV output is minimal)</li>
-                      <li><strong>+463% evening peak generation</strong> at 16:00-18:00 during critical demand periods</li>
+                      <li><strong>+26.91% morning peak energy capture</strong> compared to TMPV</li>
+                      <li><strong>+22.88% evening peak energy capture</strong> during critical demand periods</li>
                       <li><strong>57% less severe duck curve</strong> than TMPV systems</li>
                     </ul>
                   </AccordionContent>
@@ -187,7 +187,7 @@ export default function FAQPage() {
                       <ul className="space-y-2">
                         <li><strong>Total Land Required:</strong> 32,000-45,000 hectares</li>
                         <li><strong>Land for Agriculture:</strong> 27,200-38,250 hectares (85% of total)</li>
-                        <li><strong>Agricultural Productivity:</strong> 70-85% maintained</li>
+                        <li><strong>Agricultural Productivity:</strong> 95-100% maintained</li>
                         <li><strong>Land for Solar Only:</strong> 4,800-6,750 hectares (15% - panel footprint)</li>
                       </ul>
                     </div>

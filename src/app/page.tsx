@@ -125,9 +125,9 @@ export default async function Home() {
                 <div className="bg-gradient-to-br from-brand-light-green/20 to-brand-light/20 rounded-2xl p-4 w-fit mb-6 group-hover:scale-110 transition-transform duration-300">
                   <TrendingUp className="w-10 h-10 text-brand-light-green group-hover:text-brand-light transition-colors duration-300" />
                 </div>
-                <div className="text-4xl font-bold mb-3 bg-gradient-to-r from-brand-light to-brand-light-green bg-clip-text text-transparent group-hover:from-brand-light group-hover:to-brand-light transition-all duration-300">19-22%</div>
+                <div className="text-4xl font-bold mb-3 bg-gradient-to-r from-brand-light to-brand-light-green bg-clip-text text-transparent group-hover:from-brand-light group-hover:to-brand-light transition-all duration-300">15-25%</div>
                 <div className="text-base font-medium text-white/90 group-hover:text-white transition-colors duration-300">Higher Energy Output</div>
-                <div className="text-sm text-white/60 mt-2 group-hover:text-white/80 transition-colors duration-300">vs traditional solar</div>
+                <div className="text-sm text-white/60 mt-2 group-hover:text-white/80 transition-colors duration-300">Seasonal variation</div>
               </div>
             </div>
 
@@ -149,7 +149,7 @@ export default async function Home() {
                 <div className="bg-gradient-to-br from-brand-light/30 to-brand-light-green/30 rounded-2xl p-4 w-fit mb-6 group-hover:scale-110 transition-transform duration-300">
                   <Target className="w-10 h-10 text-white group-hover:text-white transition-colors duration-300" />
                 </div>
-                <div className="text-4xl font-bold mb-3 text-white">70-85%</div>
+                <div className="text-4xl font-bold mb-3 text-white">95-100%</div>
                 <div className="text-base font-medium text-white/90 group-hover:text-white transition-colors duration-300">Agricultural Productivity Maintained</div>
                 <div className="text-sm text-white/60 mt-2 group-hover:text-white/80 transition-colors duration-300">Agricultural compatibility</div>
               </div>
@@ -216,6 +216,9 @@ export default async function Home() {
                       Currently, <strong className="text-red-700">1,546 ground-mounted solar projects totaling 35.7 GW</strong> are under construction,
                       awaiting construction, or in planning (out of 3,386 total projects representing 52.6 GW). The vast majority are designed as
                       Traditional Mounted Photovoltaic (TMPV) systems.
+                    </p>
+                    <p className="text-sm text-gray-600 mb-6 italic">
+                      Source: UK Renewable Energy Planning Database (REPD), Department for Energy Security and Net Zero, December 2024
                     </p>
                     <p className="text-lg text-gray-700 mb-6 leading-relaxed">
                       Each project that receives planning approval and proceeds to construction <strong className="text-red-700">locks in the TMPV
@@ -317,15 +320,17 @@ export default async function Home() {
                     {advantage.description}
                   </p>
 
-                  {/* Progress Bar Animation */}
+                  {/* Benefit Level Indicator */}
                   <div className="mt-4 opacity-0 group-hover:opacity-100 transition-opacity duration-500">
-                    <Progress
-                      value={75 + (index * 5)}
-                      className="h-2 bg-gray-200"
-                    />
-                    <p className="text-xs text-brand-light-green mt-1 font-medium">
-                      {75 + (index * 5)}% Efficiency Improvement
-                    </p>
+                    <div className="flex items-center justify-between">
+                      <span className="text-xs text-brand-navy font-medium">Impact Level:</span>
+                      <span className="text-xs text-brand-light-green font-bold">
+                        {index === 0 ? "Significant" : index === 1 ? "Substantial" : index === 2 ? "Major" : "Critical"}
+                      </span>
+                    </div>
+                    <div className="h-1 bg-gray-200 rounded-full mt-2 overflow-hidden">
+                      <div className="h-full bg-gradient-to-r from-brand-light-green to-brand-teal transition-all duration-1000 group-hover:w-full" style={{width: '0%'}}></div>
+                    </div>
                   </div>
                 </CardContent>
 
@@ -399,7 +404,7 @@ export default async function Home() {
                 <CardTitle className="font-headline text-xl text-brand-light-green">Agricultural Benefits</CardTitle>
               </CardHeader>
               <CardContent className="relative z-10 text-center">
-                <p className="text-sm text-gray-600 mb-4">Maintain 70-85% productivity while generating clean energy</p>
+                <p className="text-sm text-gray-600 mb-4">Maintain 95-100% productivity while generating clean energy</p>
                 <Button asChild size="sm" className="bg-brand-light-green hover:bg-brand-light-green text-white">
                   <Link href="/agriculture">
                     <Sprout className="mr-2 h-4 w-4" />
@@ -419,7 +424,7 @@ export default async function Home() {
                 <CardTitle className="font-headline text-xl text-brand-teal">Energy Benefits</CardTitle>
               </CardHeader>
               <CardContent className="relative z-10 text-center">
-                <p className="text-sm text-gray-600 mb-4">19-22% higher output with superior performance</p>
+                <p className="text-sm text-gray-600 mb-4">15-25% higher output with seasonal variation (Spring 19%, Summer 15%, Autumn 20%, Winter 25%)</p>
                 <Button asChild size="sm" className="bg-brand-teal hover:bg-brand-teal text-white">
                   <Link href="/benefits">
                     <Zap className="mr-2 h-4 w-4" />

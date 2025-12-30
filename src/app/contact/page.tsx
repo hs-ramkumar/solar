@@ -45,7 +45,7 @@ export default async function ContactPage() {
 
       <div className="grid lg:grid-cols-3 gap-12">
         {/* Contact Form */}
-        <div className="lg:col-span-2">
+        {/* <div className="lg:col-span-2">
           <Card className="shadow-lg">
             <CardHeader>
               <CardTitle className="text-2xl font-headline flex items-center">
@@ -95,10 +95,10 @@ export default async function ContactPage() {
               </form>
             </CardContent>
           </Card>
-        </div>
+        </div> */}
 
         {/* Contact Information & Quick Actions */}
-        <div className="space-y-6">
+        <div className="centre space-y-6">
           {/* Contact Details */}
           <Card>
             <CardHeader>

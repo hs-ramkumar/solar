@@ -96,11 +96,11 @@ export default async function TechnologyPage() {
               </li>
               <li className="flex items-start">
                 <CheckCircle2 className="h-5 w-5 text-brand-light-green mr-2 mt-0.5 flex-shrink-0" />
-                <span><strong>Morning peak generation:</strong> +600% at 08:00 when TMPV output is minimal</span>
+                <span><strong>Morning peak energy capture:</strong> +26.91% higher daily energy compared to TMPV</span>
               </li>
               <li className="flex items-start">
                 <CheckCircle2 className="h-5 w-5 text-brand-light-green mr-2 mt-0.5 flex-shrink-0" />
-                <span><strong>Evening peak generation:</strong> +463% at 16:00-18:00 during critical demand</span>
+                <span><strong>Evening peak energy capture:</strong> +22.88% higher daily energy during critical demand</span>
               </li>
               <li className="flex items-start">
                 <CheckCircle2 className="h-5 w-5 text-brand-light-green mr-2 mt-0.5 flex-shrink-0" />

@@ -54,9 +54,9 @@ export default function BenefitsPage() {
           <Card className="text-center hover:shadow-xl transition-shadow duration-300 bg-gradient-to-br from-orange-500 to-red-600 text-white">
             <CardContent className="p-6">
               <Building2 className="w-12 h-12 mx-auto mb-4" />
-              <div className="text-4xl font-bold mb-2">19-22%</div>
+              <div className="text-4xl font-bold mb-2">15-25%</div>
               <div className="text-sm opacity-90">Higher Energy Output</div>
-              <div className="text-xs opacity-75 mt-2">Annual generation vs TMPV</div>
+              <div className="text-xs opacity-75 mt-2">Seasonal variation (Spring-Winter)</div>
             </CardContent>
           </Card>
         </div>

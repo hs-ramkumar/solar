@@ -17,17 +17,17 @@
   },
   {
     "feature": "Winter Generation",
-    "vbvp": "129% of TMPV during peak demand",
+    "vbvp": "125% of TMPV (24.52% higher output)",
     "traditional": "Low (severe duck curve)"
   },
   {
-    "feature": "Morning Peak (08:00)",
-    "vbvp": "+600% vs TMPV (6-7× more power)",
+    "feature": "Morning Peak",
+    "vbvp": "+26.91% higher daily energy capture",
     "traditional": "Minimal output"
   },
   {
-    "feature": "Evening Peak (16:00-18:00)",
-    "vbvp": "+463% vs TMPV (4-5× more power)",
+    "feature": "Evening Peak",
+    "vbvp": "+22.88% higher daily energy capture",
     "traditional": "Rapidly dropping output"
   },
   {
@@ -37,7 +37,7 @@
   },
   {
     "feature": "Land Use",
-    "vbvp": "70-85% agricultural productivity maintained",
+    "vbvp": "95-100% agricultural productivity maintained",
     "traditional": "100% dedicated to solar, zero agriculture"
   },
   {
@@ -77,7 +77,7 @@
   },
   {
     "feature": "Biodiversity Impact",
-    "vbvp": "3× bird abundance vs intensive farming (RSPB)",
+    "vbvp": "Up to 3× bird abundance on well-managed sites vs intensive farming (RSPB/Cambridge 2025)",
     "traditional": "Eliminates agricultural habitat"
   },
   {
