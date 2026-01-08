@@ -149,7 +149,7 @@ export default async function Home() {
                 <div className="bg-gradient-to-br from-brand-light/30 to-brand-light-green/30 rounded-2xl p-4 w-fit mb-6 group-hover:scale-110 transition-transform duration-300">
                   <Target className="w-10 h-10 text-white group-hover:text-white transition-colors duration-300" />
                 </div>
-                <div className="text-4xl font-bold mb-3 text-white">95-100%</div>
+                <div className="text-4xl font-bold mb-3 text-white">70-85%</div>
                 <div className="text-base font-medium text-white/90 group-hover:text-white transition-colors duration-300">Agricultural Productivity Maintained</div>
                 <div className="text-sm text-white/60 mt-2 group-hover:text-white/80 transition-colors duration-300">Agricultural compatibility</div>
               </div>
@@ -404,7 +404,7 @@ export default async function Home() {
                 <CardTitle className="font-headline text-xl text-brand-light-green">Agricultural Benefits</CardTitle>
               </CardHeader>
               <CardContent className="relative z-10 text-center">
-                <p className="text-sm text-gray-600 mb-4">Maintain 95-100% productivity while generating clean energy</p>
+                <p className="text-sm text-gray-600 mb-4">Maintain 70-85% productivity while generating clean energy</p>
                 <Button asChild size="sm" className="bg-brand-light-green hover:bg-brand-light-green text-white">
                   <Link href="/agriculture">
                     <Sprout className="mr-2 h-4 w-4" />
